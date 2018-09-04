@@ -24,7 +24,7 @@ mpl_style = {
     'image.cmap': 'viridis',
 
     # Font
-    'font.size': 12.0,
+    'font.size': 16.0,
     'text.usetex': True,
     'text.latex.preamble': r'\usepackage{amsmath}',
     'text.latex.preview': True,
